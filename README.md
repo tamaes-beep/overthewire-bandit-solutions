@@ -16,4 +16,9 @@ command used: ls -alps, cat ./
 
 how:once i connected I used ls with flags to see hidden files and details and spotted readme file and then i used cat ./readme to open and reveal the password
 
-password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+password1: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+password2: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+password3 : MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+password4: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+password5: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+password6: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
